@@ -23,7 +23,6 @@ $Admin = [bool](([System.Security.Principal.WindowsIdentity]::GetCurrent()).grou
 
 # Icon
 
-
 [String] $upIcon64 = @"
 AAABAAMAICAAAAEAIACoEAAANgAAAEBAAAABACAAKEIAAN4QAACAgAAAAQAgACgIAQAGUwAAKAAAACAAAABAAAAAAQAgAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAP////
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
